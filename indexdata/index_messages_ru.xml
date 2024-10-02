@@ -10,28 +10,37 @@
 
 
   <data name="ru_pano25_title"><![CDATA[Вход в парадную]]></data>
+  <data name="ru_spotpoint34_tooltip"><![CDATA[Двор дома "Форум"]]></data>
+  <data name="ru_spotpoint38_tooltip"><![CDATA[Вход в парадную]]></data>
 
 
   <data name="ru_pano22_title"><![CDATA[1]]></data>
+  <data name="ru_spotpoint41_tooltip"><![CDATA[Теплый тамбур]]></data>
+  <data name="ru_spotpoint42_tooltip"><![CDATA[Теплый тамбур]]></data>
 
 
   <data name="ru_pano23_title"><![CDATA[2]]></data>
+  <data name="ru_spotpoint39_tooltip"><![CDATA[Выход во двор]]></data>
+  <data name="ru_spotpoint40_tooltip"><![CDATA[Зона Ожидания]]></data>
 
 
   <data name="ru_pano24_title"><![CDATA[3]]></data>
+  <data name="ru_spotpoint43_tooltip"><![CDATA[Зона Ожидания]]></data>
 
 
   <data name="ru_pano26_title"><![CDATA[Двор]]></data>
+  <data name="ru_spotpoint35_tooltip"><![CDATA[Вход в парадную]]></data>
+  <data name="ru_spotpoint36_tooltip"><![CDATA[Двор дома "Форум"]]></data>
 
 
   <data name="ru_pano27_title"><![CDATA[Двор2]]></data>
+  <data name="ru_spotpoint37_tooltip"><![CDATA[Двор дома "Форум"]]></data>
 
 
 
 
 
 
-  <data name="ru_buttontooltip"><![CDATA[]]></data>
 
 
   <data name="ru_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
