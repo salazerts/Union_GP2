@@ -108,7 +108,7 @@
     <spot type="point" relativeX="0.504564" objectId="41" y="32.5511" relativeY="0.500681" x="70.6846">
      <description/>
      <presetAction id="user_defaultpoint4">
-      <action type="Object" name="Go to a panorama or a group" callTemplate="loadpanoramaactioncall.tmpl" customTargetView="False" startFov="90" id="object" targetId="25" sourceId="22" startYaw="136.8" locked="False" internal="0" actionChooserRef="" startPitch="3.15" description="Go to Вход в парадную" category="basic" contentTemplate="" depends="">
+      <action type="Object" name="Go to a panorama or a group" callTemplate="loadpanoramaactioncall.tmpl" customTargetView="False" startFov="90" id="object" targetId="23" sourceId="22" startYaw="0" locked="False" internal="0" actionChooserRef="" startPitch="0" description="Go to 2" category="basic" contentTemplate="" depends="">
        <select name="Source transition" default="none" id="sourcetransition" uiPreview="false" customize="true">
         <item name="None" value="none"/>
         <item name="Look to the spot" value="looktospot"/>
@@ -129,7 +129,7 @@
         <item name="Zoom out then move to custom view" value="zoomoutandincustomview"/>
        </select>
       </action>
-      <action type="Object" name="Go to a panorama or a group" callTemplate="loadpanoramaactioncall.tmpl" customTargetView="False" startFov="0" id="object" targetId="-1" sourceId="22" startYaw="0" locked="False" internal="0" actionChooserRef="" startPitch="0" description="Load a specific panorama or the first panorama of a specific group." category="basic" contentTemplate="" depends="">
+      <action type="Object" name="Go to a panorama or a group" callTemplate="loadpanoramaactioncall.tmpl" customTargetView="False" startFov="90" id="object" targetId="25" sourceId="22" startYaw="136.8" locked="False" internal="0" actionChooserRef="" startPitch="3.15" description="Go to Вход в парадную" category="basic" contentTemplate="" depends="">
        <select name="Source transition" default="none" id="sourcetransition" uiPreview="false" customize="true">
         <item name="None" value="none"/>
         <item name="Look to the spot" value="looktospot"/>
@@ -155,7 +155,7 @@
     <spot type="point" relativeX="0.0362047" objectId="42" y="33.25" relativeY="0.51" x="0.430705">
      <description/>
      <presetAction id="user_defaultpoint4">
-      <action type="Object" name="Go to a panorama or a group" callTemplate="loadpanoramaactioncall.tmpl" customTargetView="False" startFov="0" id="object" targetId="-1" sourceId="22" startYaw="0" locked="False" internal="0" actionChooserRef="" startPitch="0" description="Load a specific panorama or the first panorama of a specific group." category="basic" contentTemplate="" depends="">
+      <action type="Object" name="Go to a panorama or a group" callTemplate="loadpanoramaactioncall.tmpl" customTargetView="False" startFov="90" id="object" targetId="24" sourceId="22" startYaw="7.2" locked="False" internal="0" actionChooserRef="" startPitch="-1.35" description="Go to 3" category="basic" contentTemplate="" depends="">
        <select name="Source transition" default="none" id="sourcetransition" uiPreview="false" customize="true">
         <item name="None" value="none"/>
         <item name="Look to the spot" value="looktospot"/>
@@ -176,7 +176,7 @@
         <item name="Zoom out then move to custom view" value="zoomoutandincustomview"/>
        </select>
       </action>
-      <action type="Object" name="Go to a panorama or a group" callTemplate="loadpanoramaactioncall.tmpl" customTargetView="False" startFov="0" id="object" targetId="-1" sourceId="22" startYaw="0" locked="False" internal="0" actionChooserRef="" startPitch="0" description="Load a specific panorama or the first panorama of a specific group." category="basic" contentTemplate="" depends="">
+      <action type="Object" name="Go to a panorama or a group" callTemplate="loadpanoramaactioncall.tmpl" customTargetView="False" startFov="90" id="object" targetId="25" sourceId="22" startYaw="136.8" locked="False" internal="0" actionChooserRef="" startPitch="3.15" description="Go to Вход в парадную" category="basic" contentTemplate="" depends="">
        <select name="Source transition" default="none" id="sourcetransition" uiPreview="false" customize="true">
         <item name="None" value="none"/>
         <item name="Look to the spot" value="looktospot"/>
@@ -229,7 +229,7 @@
         <item name="Zoom out then move to custom view" value="zoomoutandincustomview"/>
        </select>
       </action>
-      <action type="Object" name="Go to a panorama or a group" callTemplate="loadpanoramaactioncall.tmpl" customTargetView="False" startFov="0" id="object" targetId="-1" sourceId="23" startYaw="0" locked="False" internal="0" actionChooserRef="" startPitch="0" description="Load a specific panorama or the first panorama of a specific group." category="basic" contentTemplate="" depends="">
+      <action type="Object" name="Go to a panorama or a group" callTemplate="loadpanoramaactioncall.tmpl" customTargetView="False" startFov="90" id="object" targetId="25" sourceId="23" startYaw="136.8" locked="False" internal="0" actionChooserRef="" startPitch="3.15" description="Go to Вход в парадную" category="basic" contentTemplate="" depends="">
        <select name="Source transition" default="none" id="sourcetransition" uiPreview="false" customize="true">
         <item name="None" value="none"/>
         <item name="Look to the spot" value="looktospot"/>
@@ -252,10 +252,10 @@
       </action>
      </presetAction>
     </spot>
-    <spot type="point" relativeX="0.525593" objectId="40" y="34" relativeY="0.52" x="73.839">
+    <spot type="point" relativeX="0.51962" objectId="71" y="34.2857" relativeY="0.52381" x="72.9429">
      <description/>
      <presetAction id="user_defaultpoint3">
-      <action type="Object" name="Go to a panorama or a group" callTemplate="loadpanoramaactioncall.tmpl" customTargetView="False" startFov="0" id="object" targetId="-1" sourceId="23" startYaw="0" locked="False" internal="0" actionChooserRef="" startPitch="0" description="Load a specific panorama or the first panorama of a specific group." category="basic" contentTemplate="" depends="">
+      <action type="Object" name="Go to a panorama or a group" callTemplate="loadpanoramaactioncall.tmpl" customTargetView="False" startFov="90" id="object" targetId="22" sourceId="23" startYaw="-164.7" locked="False" internal="0" actionChooserRef="" startPitch="1.35" description="Go to 1" category="basic" contentTemplate="" depends="">
        <select name="Source transition" default="none" id="sourcetransition" uiPreview="false" customize="true">
         <item name="None" value="none"/>
         <item name="Look to the spot" value="looktospot"/>
@@ -276,7 +276,7 @@
         <item name="Zoom out then move to custom view" value="zoomoutandincustomview"/>
        </select>
       </action>
-      <action type="Object" name="Go to a panorama or a group" callTemplate="loadpanoramaactioncall.tmpl" customTargetView="False" startFov="0" id="object" targetId="-1" sourceId="23" startYaw="0" locked="False" internal="0" actionChooserRef="" startPitch="0" description="Load a specific panorama or the first panorama of a specific group." category="basic" contentTemplate="" depends="">
+      <action type="Object" name="Go to a panorama or a group" callTemplate="loadpanoramaactioncall.tmpl" customTargetView="False" startFov="90" id="object" targetId="25" sourceId="-1" startYaw="136.8" locked="False" internal="0" actionChooserRef="" startPitch="3.15" description="Go to Вход в парадную" category="basic" contentTemplate="" depends="">
        <select name="Source transition" default="none" id="sourcetransition" uiPreview="false" customize="true">
         <item name="None" value="none"/>
         <item name="Look to the spot" value="looktospot"/>
@@ -307,8 +307,8 @@
     <description name="3" filename="../../../Desktop/Панорамы для сборки/Панорамы для сборки/3.jpg" backgroundAlpha="255" backgroundColor="#ffffff" foregroundAlpha="255" foregroundColor="#000000"/>
     <spot type="point" relativeX="0.476904" objectId="43" y="32.875" relativeY="0.505" x="66.5356">
      <description/>
-     <presetAction id="user_defaultpoint3">
-      <action type="Object" name="Go to a panorama or a group" callTemplate="loadpanoramaactioncall.tmpl" customTargetView="False" startFov="90" id="object" targetId="25" sourceId="24" startYaw="136.8" locked="False" internal="0" actionChooserRef="" startPitch="3.15" description="Go to Вход в парадную" category="basic" contentTemplate="" depends="">
+     <presetAction id="user_defaultpoint4">
+      <action type="Object" name="Go to a panorama or a group" callTemplate="loadpanoramaactioncall.tmpl" customTargetView="False" startFov="90" id="object" targetId="22" sourceId="24" startYaw="-164.7" locked="False" internal="0" actionChooserRef="" startPitch="1.35" description="Go to 1" category="basic" contentTemplate="" depends="">
        <select name="Source transition" default="none" id="sourcetransition" uiPreview="false" customize="true">
         <item name="None" value="none"/>
         <item name="Look to the spot" value="looktospot"/>
@@ -329,7 +329,7 @@
         <item name="Zoom out then move to custom view" value="zoomoutandincustomview"/>
        </select>
       </action>
-      <action type="Object" name="Go to a panorama or a group" callTemplate="loadpanoramaactioncall.tmpl" customTargetView="False" startFov="0" id="object" targetId="-1" sourceId="24" startYaw="0" locked="False" internal="0" actionChooserRef="" startPitch="0" description="Load a specific panorama or the first panorama of a specific group." category="basic" contentTemplate="" depends="">
+      <action type="Object" name="Go to a panorama or a group" callTemplate="loadpanoramaactioncall.tmpl" customTargetView="False" startFov="90" id="object" targetId="25" sourceId="-1" startYaw="136.8" locked="False" internal="0" actionChooserRef="" startPitch="3.15" description="Go to Вход в парадную" category="basic" contentTemplate="" depends="">
        <select name="Source transition" default="none" id="sourcetransition" uiPreview="false" customize="true">
         <item name="None" value="none"/>
         <item name="Look to the spot" value="looktospot"/>
