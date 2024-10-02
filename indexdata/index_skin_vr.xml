@@ -10,6 +10,7 @@
          visible="false"
          edge="center"
          onhover="onhoverIconDefaultPointSpotStyle"
+         onover="onoverIconDefaultPointSpotStyle"
          onout="onoutIconDefaultPointSpotStyle"
 
 
@@ -17,9 +18,14 @@
   <action name="onhoverIconDefaultPointSpotStyle">
     showtooltip('hotspot');
   </action>
+  <action name="onoverIconDefaultPointSpotStyle">
+tween(scale, 1.2);
+
+
+  </action>
   <action name="onoutIconDefaultPointSpotStyle">
     hideTooltip();
-
+    tween(scale, 1);
 
 
   </action>
