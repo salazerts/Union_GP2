@@ -5,7 +5,7 @@
    <description foregroundAlpha="255" name="Group 31" backgroundAlpha="255" backgroundColor="#8c8c8c" foregroundColor="#ffffff"/>
    <pano lowres="true" phi="0" minFov="1" startFov="90" maxFov="90" dontGenerateTiles="false" width="8000" heading="0" x="225" planar="false" startPitch="3.15" maxPixelZoom="true" startYaw="136.8" vFov="180" height="4000" tourDirectory="pano_25" type="0" y="148" hFov="360" objectId="25">
     <description foregroundAlpha="255" filename="../../../Desktop/Панорамы для сборки/Панорамы для сборки/Вход в парадную.png" name="Вход в парадную" backgroundAlpha="255" backgroundColor="#ffffff" foregroundColor="#000000"/>
-    <spot objectId="34" relativeX="0.832342" relativeY="0.519048" y="33.9286" type="point" x="119.851">
+    <spot objectId="34" relativeX="0.837099" relativeY="0.519048" y="33.9286" type="point" x="120.565">
      <description/>
      <presetAction id="user_defaultpoint0">
       <action sourceId="25" startPitch="0.45" locked="False" startYaw="-33.3" name="Go to a panorama or a group" startFov="90" contentTemplate="" type="Object" depends="" id="object" internal="0" callTemplate="loadpanoramaactioncall.tmpl" customTargetView="True" description="Go to Двор" category="basic" actionChooserRef="" targetId="26">
@@ -310,7 +310,7 @@
   </tooltipstyle>
   <presetActions>
    <presetAction objectId="0" isDefault="True" locked="False" type="actionicon" id="user_defaultpoint0" spotType="point" timestamp="0">
-    <description name="Default Point Spot Style" previewFile="../../../Desktop/Панорамы для сборки/Панорамы для сборки/Стрелка2.png" description="tr:This is the default preset for point spots"/>
+    <description name="Вход в парадную" previewFile="../../../Desktop/Панорамы для сборки/Панорамы для сборки/Стрелка2.png" description="tr:This is the default preset for point spots"/>
     <display type="point">
      <bool default="false" uiPreview="false" name="Use icon from library" id="fileorlib" customize="false"/>
      <filechooser default="../../../Desktop/Панорамы для сборки/Панорамы для сборки/Стрелка2.png" uiPreview="false" name="Icon file" conditionalParam="fileorlib" filters="images,flash" id="icon" customize="false" allowRemote="true" conditionalValues="false" allowEmpty="false"/>
